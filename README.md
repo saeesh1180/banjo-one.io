@@ -1,4 +1,3 @@
-# banjo-one.io
 <!DOCTYPE html>
 <html>
 <head>
